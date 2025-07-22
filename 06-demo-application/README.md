@@ -2,7 +2,7 @@
 
 ![](./readme-assets/screenshot.png)
 
-## Minimal 3 tier web application
+## Minimal 3 tier web-application
 
 - **React frontend:** Uses react query to load data from the two apis and display the result.
 - **Node.js and Go APIs:** Both have `/` and `/ping` endpoints. `/` queries the Database for the current time and the number of requests for each api recorded within the database, and `/ping` returns `pong`.
